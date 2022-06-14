@@ -22,6 +22,6 @@
 ![](img/juego6.png)
 
 ## 8 juego
-![](img/juego6.png)
+![](img/juego8.png)
 
 
