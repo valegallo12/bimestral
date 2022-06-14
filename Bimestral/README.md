@@ -1,23 +1,20 @@
-## bimestral
+## BIMESTRAL
 
 ## 1 juego 
+![](img/image.png)
 
-![](img/image%20(1).png)
+## 2 juego
+![](img/)
 
-## 2 juego 
+## 3 juego
+![](img/juego3.jpeg)
 
-![](img/image%20(2).png)
+## 4 juego
+![](img/juego4.jpeg)
 
-## 3 juego 
+## 5 juego
+![](img/juego5.png)
 
-![](img/image%20(3).png)
-
-## 3 juego 
-
-![](img/image%20(3).png)
-
-## 4 juego 
-
-![](img/image%20(4).png)
-
+## 6 juego
+![](img/juego6.png)
 
