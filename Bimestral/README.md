@@ -2,4 +2,4 @@
 
 ## 1 juego 
 
-![](image(1).png)
+![](img/image%20(1).png)
